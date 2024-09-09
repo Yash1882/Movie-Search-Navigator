@@ -9,7 +9,6 @@ https://user-images.githubusercontent.com/61752151/177328227-912325cd-8dcd-4bdb-
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
-- [Connect with me](#-connect-with-me)
 
 
 ## About
